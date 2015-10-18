@@ -1,6 +1,6 @@
 ---
 published: true
-title: it works
+title: heading
 layout: post
 ---
-it works
+body
