@@ -1,0 +1,6 @@
+---
+published: true
+title: it works
+layout: post
+---
+it works
